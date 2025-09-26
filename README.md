@@ -14,5 +14,5 @@ and comes with a neon glow effect.
 ## 📂 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/USERNAME/live-clock.git
+   git clone https://github.com/VarshithaMA/live-clock.git
  
